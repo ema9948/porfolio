@@ -10,7 +10,7 @@ const introdata = {
     animated: {
         first: "Bienvenido...",
         second: "Soy un apasionado por la Tecnología..",
-        third: "I'm a Trainne Developer",
+        third: "I'm a Trainne Full-Stack Developer",
     },
     description: "Si puedes imaginarlo  puedes programarlo",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
