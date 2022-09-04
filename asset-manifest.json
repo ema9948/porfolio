@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.936877b7.css",
+    "main.js": "/porfolio/static/js/main.ad84b117.js",
+    "static/js/787.202b8111.chunk.js": "/porfolio/static/js/787.202b8111.chunk.js",
+    "static/media/mern.png": "/porfolio/static/media/mern.8af559eb0df8bdfcc4e2.png",
+    "index.html": "/porfolio/index.html",
+    "main.936877b7.css.map": "/porfolio/static/css/main.936877b7.css.map",
+    "main.ad84b117.js.map": "/porfolio/static/js/main.ad84b117.js.map",
+    "787.202b8111.chunk.js.map": "/porfolio/static/js/787.202b8111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.936877b7.css",
+    "static/js/main.ad84b117.js"
+  ]
+}
