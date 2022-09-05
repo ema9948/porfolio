@@ -78,17 +78,7 @@ const dataportfolio = [{
     img: "../src/img/proyect1.png",
     desctiption: "App del clima basica y simpre..",
     link: "https://weather-app-chiri.netlify.app/",
-},
-{
-    img: "https://picsum.photos/400/800/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+}
 
 ];
 
