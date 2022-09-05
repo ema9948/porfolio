@@ -77,7 +77,7 @@ const services = [{
 const dataportfolio = [{
     img: "../src/img/proyect1.png",
     desctiption: "App del clima basica y simpre..",
-    link: "#",
+    link: "https://weather-app-chiri.netlify.app/",
 },
 {
     img: "https://picsum.photos/400/800/?grayscale",
