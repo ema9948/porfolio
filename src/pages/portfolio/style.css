@@ -1,3 +1,8 @@
+.img {
+    object-fit: cover;
+    height: 300px;
+}
+
 .po_items_ho {
     column-width: 15em;
     -moz-column-width: 15em;
