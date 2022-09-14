@@ -80,7 +80,7 @@ const dataportfolio = [{
     link: "https://weather-app-chiri.netlify.app/",
 },
     {
-        img: "../src/img/proyect2.png",
+        img: "../src/img/memo.png",
         desctiption: "Juego de memoria.\nTegnologias React",
         link: "https://memo-tes.netlify.app",
     },
