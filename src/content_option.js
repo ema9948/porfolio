@@ -1,5 +1,6 @@
 const logotext = "Ch1r1";
-
+const pro1 = require("./img/proyect1.png")
+const pro2 = require("./img/memo.png")
 const meta = {
     title: "Cristian Albornoz",
     description: "I'm Cristian Albornoz Full Stack Developer, I live in Argentina",
@@ -74,16 +75,18 @@ const services = [{
 },
 ];
 
-const dataportfolio = [{
-    img: "../src/img/proyect1.png",
-    desctiption: "App del clima.\nTegnologias React",
-    link: "https://weather-app-chiri.netlify.app/",
-},
+const dataportfolio = [
     {
-        img: "../src/img/memo.png",
+        img: pro1,
         desctiption: "Juego de memoria.\nTegnologias React",
         link: "https://memo-tes.netlify.app",
     },
+    {
+        img: pro2,
+        desctiption: "App del clima.\nTegnologias React",
+        link: "https://weather-app-chiri.netlify.app/",
+    }
+
 
 ];
 
