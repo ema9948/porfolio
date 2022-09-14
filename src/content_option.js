@@ -76,15 +76,16 @@ const services = [{
 ];
 
 const dataportfolio = [
-    {
-        img: pro2,
-        desctiption: "Juego de memoria.\nTegnologias React",
-        link: "https://memo-tes.netlify.app",
-    },
+
     {
         img: pro1,
-        desctiption: "App del clima.\nTegnologias React",
+        desctiption: "App del clima.\n Tegnologias React",
         link: "https://weather-app-chiri.netlify.app/",
+    },
+    {
+        img: pro2,
+        desctiption: "Juego de memoria.\n Tegnologias React",
+        link: "https://memo-tes.netlify.app",
     }
 
 
