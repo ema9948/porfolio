@@ -76,9 +76,14 @@ const services = [{
 
 const dataportfolio = [{
     img: "../src/img/proyect1.png",
-    desctiption: "App del clima basica y simpre..",
+    desctiption: "App del clima.\nTegnologias React",
     link: "https://weather-app-chiri.netlify.app/",
 },
+    {
+        img: "../src/img/proyect2.png",
+        desctiption: "Juego de memoria.\nTegnologias React",
+        link: "https://memo-tes.netlify.app",
+    },
 
 ];
 
