@@ -4,12 +4,12 @@
 }
 
 .po_items_ho {
-    column-width: 15em;
-    -moz-column-width: 15em;
-    -webkit-column-width: 15em;
-    column-gap: 4rem;
-    -moz-column-gap: 4rem;
-    -webkit-column-gap: 4rem;
+    column-width: 20em;
+        -moz-column-width: 20em;
+        -webkit-column-width: 20em;
+        column-gap: 2rem;
+        -moz-column-gap: 2rem;
+        -webkit-column-gap: 2rem;
 }
 
 .po_item {
@@ -19,9 +19,9 @@
     margin: 0.5rem auto;
     position: relative;
     background: var(--secondary-color);
-    padding: 6px;
+    padding: 10px;
     border: 1px solid var(--secondary-color);
-    transition: 0.3s ease;
+    transition: 0.5s ease;
     font-size: 0;
     min-height: 300px;
 }
@@ -54,7 +54,7 @@
     opacity: 0;
     transition-delay: 1s;
     transition: 0.3s ease;
-    font-size: 20px;
+    font-size: 1rem;
 }
 
 .po_item:hover {

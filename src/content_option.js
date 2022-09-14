@@ -91,7 +91,7 @@ const dataportfolio = [
     ,
     {
         img: pro3,
-        desctiption: "Juego de memoria.\n Tegnologias React",
+        desctiption: "Chat Random.Tegnologias  React,Socket.IO",
         link: "https://chat-socket-io-app.herokuapp.com",
     }
 
