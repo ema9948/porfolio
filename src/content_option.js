@@ -1,6 +1,7 @@
 const logotext = "Ch1r1";
 const pro1 = require("./img/proyect1.png")
 const pro2 = require("./img/memo.png")
+const pro3 = require("./img/pro3.png")
 const meta = {
     title: "Cristian Albornoz",
     description: "I'm Cristian Albornoz Full Stack Developer, I live in Argentina",
@@ -87,7 +88,12 @@ const dataportfolio = [
         desctiption: "Juego de memoria.\n Tegnologias React",
         link: "https://memo-tes.netlify.app",
     }
-
+    ,
+    {
+        img: pro3,
+        desctiption: "Juego de memoria.\n Tegnologias React",
+        link: "https://chat-socket-io-app.herokuapp.com",
+    }
 
 ];
 
