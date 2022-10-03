@@ -2,6 +2,7 @@ const logotext = "Ch1r1";
 const pro1 = require("./img/proyect1.png")
 const pro2 = require("./img/memo.png")
 const pro3 = require("./img/pro3.png")
+const pro4 = require("./img/proyect4.png")
 const meta = {
     title: "Cristian Albornoz",
     description: "I'm Cristian Albornoz Full Stack Developer, I live in Argentina",
@@ -93,6 +94,11 @@ const dataportfolio = [
         img: pro3,
         desctiption: "Chat Random.Tegnologias  React,Socket.IO",
         link: "https://chat-socket-io-app.herokuapp.com",
+    },
+    {
+        img: pro4,
+        desctiption: "App Contact, Java (spring boot) y React",
+        link: "https://contac-spring.netlify.app/",
     }
 
 ];
