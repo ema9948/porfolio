@@ -1,4 +1,4 @@
-const logotext = "Ch1r1";
+const logotext = "Cristian";
 const pro1 = require("./img/proyect1.png")
 const pro2 = require("./img/memo.png")
 const pro3 = require("./img/pro3.png")
@@ -10,7 +10,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "Soy Cristian Albornoz",
+    title: "Cristian Albornoz",
     animated: {
         first: "Bienvenido...",
         second: "Soy un apasionado por la Tecnología..",
