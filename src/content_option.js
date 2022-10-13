@@ -10,13 +10,13 @@ const meta = {
 };
 
 const introdata = {
-    title: "Cristian Albornoz",
+    title: "Full-Stack JavaScript",
     animated: {
-        first: "Bienvenido...",
-        second: "Soy un apasionado por la Tecnología..",
-        third: "I'm a Trainne Full-Stack Developer",
+        first: "Desarrollado Backend JavaScript (Node,Express), creando servicios Rest.",
+        second: "Desarrollo Frontend JavaScript (React,Tailwind,Boostrap).",
+        third: "Manejo de base de datos SQL(mysql). NoSql(MDB).",
     },
-    description: "Si puedes imaginarlo  puedes programarlo",
+    description: "Cristian Albornoz",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
