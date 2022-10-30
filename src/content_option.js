@@ -4,6 +4,8 @@ const pro2 = require("./img/memo.png")
 const pro3 = require("./img/pro3.png")
 const pro4 = require("./img/proyect4.png")
 const pro5 = require("./img/pro5.png")
+const pro6 = require("./img/pro6.png")
+
 const meta = {
     title: "Cristian Albornoz",
     description: "I'm Cristian Albornoz Full Stack Developer, I live in Argentina",
@@ -105,6 +107,11 @@ const dataportfolio = [
         img: pro4,
         desctiption: "App Contact, Java (spring boot) y React",
         link: "https://app-contacto.netlify.app/",
+    },
+    {
+        img: pro6,
+        desctiption: "Acortador de url, echo con JS (EXPRESS) y React",
+        link: "https://shorcuturl.netlify.app/login"
     }
 
 ];
